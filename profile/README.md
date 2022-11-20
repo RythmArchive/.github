@@ -23,5 +23,6 @@ You can access the following on the website:
 * [Discord-FM/discord.py](https://github.com/RythmArchive/discord.py) ([original](https://github.com/Discord-FM/discord.py))
 
 ## Other
+* [ByteAlex/Lavalink.kt](https://github.com/RythmArchive/Lavalink.kt) ([original](https://github.com/ByteAlex/Lavalink.kt))
 * [RythmArchive/.github](https://github.com/RythmArchive/.github)
 * [RythmArchive/RythmArchive.github.io](https://github.com/RythmArchive/RythmArchive.github.io)
