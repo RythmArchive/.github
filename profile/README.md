@@ -24,5 +24,7 @@ You can access the following on the website:
 
 ## Other
 * [ByteAlex/Lavalink.kt](https://github.com/RythmArchive/Lavalink.kt) ([original](https://github.com/ByteAlex/Lavalink.kt))
+
+## Not a repository archive
 * [RythmArchive/.github](https://github.com/RythmArchive/.github)
 * [RythmArchive/RythmArchive.github.io](https://github.com/RythmArchive/RythmArchive.github.io)
