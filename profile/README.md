@@ -8,7 +8,7 @@ You can access the following on the website:
 
 # Repository Directory
 ## @RythmFM
-* [RythmFM/caffeine-coroutines](https://github.com/RythmArchive/caffeine-coroutines) ([original](https://github.com/RythmFM/caffeine-coroutines)
+* [RythmFM/caffeine-coroutines](https://github.com/RythmArchive/caffeine-coroutines) ([original](https://github.com/RythmFM/caffeine-coroutines))
 * [RythmFM/drone-kubernetes](https://github.com/RythmFM/drone-kubernetes) ([original](https://github.com/RythmFM/drone-kubernetes))
 * [RythmFM/drone-vault](https://github.com/RythmArchive/drone-vault) ([original](https://github.com/RythmFM/drone-vault))
 * [RythmFM/lavaplayer](https://github.com/RythmArchive/lavaplayer) ([original](https://github.com/RythmFM/lavaplayer))
