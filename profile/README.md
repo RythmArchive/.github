@@ -24,6 +24,7 @@ You can access the following on the website:
 
 ## Other
 * [ByteAlex/Lavalink.kt](https://github.com/RythmArchive/Lavalink.kt) ([original](https://github.com/ByteAlex/Lavalink.kt))
+* [Repulser/Protector](https://github.com/RythmArchive/Protector) ([original](https://github.com/Repulser/Protector))
 * [Repulser/RythmFAQ](https://github.com/RythmArchive/RythmFAQ) ([original](https://github.com/Repulser/RythmFAQ))
 
 ## Not a repository archive
